@@ -26,6 +26,6 @@
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lbeam08&theme=react&hide=html,css,dockerfile,shell,Objective-C,cmake,scss,ejs,stylus&count_private=true&show_icons=true&hide_border=true&layout=compact"/>
 
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=lbeam08&count_private=true&show_icons=true&theme=onedark&include_all_commits=true&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=lbeam08&count_private=true&show_icons=true&theme=onedark&include_all_commits=true&hide_border=true"
 </p>
 
