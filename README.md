@@ -19,7 +19,7 @@
 | --- | --- | ---|
 | [**`Python` 基于PyQT5制作的翻译小程序**](https://github.com/Lbeam08/XiaoLiang_translator) | <img src="https://img.shields.io/github/stars/lbeam08/XiaoLiang_translator?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/lbeam08/XiaoLiang_translator?style=social" height="22" align="top" /> |
 | [**`PHP` 在线外链网盘系统**](https://github.com/Lbeam08/XiaoChun_External-link-network-disk) | <img src="https://img.shields.io/github/stars/lbeam08/XiaoChun_External-link-network-disk?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/lbeam08/XiaoChun_External-link-network-disk?style=social" height="22" align="top" /> |
-| [**`Vue` 文档教程项目**]([https://github.com/Lbeam08/WebXiaochun-Res_Markdown-vitepress) | <img src="https://img.shields.io/github/stars/lbeam08/WebXiaochun-Res_Markdown-vitepress?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/lbeam08/WebXiaochun-Res_Markdown-vitepress?style=social" height="22" align="top" /> |
+| [**`Vue` 文档教程项目**](https://github.com/Lbeam08/WebXiaochun-Res_Markdown-vitepress) | <img src="https://img.shields.io/github/stars/lbeam08/WebXiaochun-Res_Markdown-vitepress?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/lbeam08/WebXiaochun-Res_Markdown-vitepress?style=social" height="22" align="top" /> |
 
 <br />
 
